@@ -8,6 +8,7 @@ import styles from './home.module.scss';
 // Client-side
 // Server-side
 // Static site Generation
+//
 interface HomeProps{
   product:{
     priceId: string;
